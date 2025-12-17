@@ -1,2 +1,3 @@
 hello from file2.txt
 clone using git 
+Hii I'm Saliha
